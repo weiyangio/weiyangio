@@ -8,43 +8,30 @@
   </a>
 </p>
 </div>
-
 ---
-
 ## 👨‍💻 关于我
-
 - 🎓 吉林大学 **电子信息工程** 专业本科生
 - 🚀 即将赴 **南京大学电子学院攻读博士学位**
 - 🤖 对 **人工智能、智能系统、机器人、嵌入式系统与算法设计** 感兴趣
 - 🔬 有 **ROS 2、PX4、SLAM、YOLO、路径规划、自主控制** 等项目实践经历
 - 💡 喜欢将 **算法、软件与硬件系统** 结合起来解决实际问题
 - ✍️ 业余爱好包括 **书法、跑步与写作**
-
 ---
-
 ## 🔬 研究兴趣
-
 - 🤖 智能系统与自主系统
 - 🧠 人工智能与机器学习
 - 👁️ 计算机视觉
 - 🛰️ SLAM 与自主导航
 - ⚙️ 嵌入式系统
 - 💻 算法设计与智能计算
-
 ---
-
 ## 🛠️ 技术栈
-
 ### 编程语言
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c&theme=light" />
 </p>
-
 `Python` · `C++` · `C` · `MATLAB`
-
 ### 人工智能与机器人
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=light" />
 </p>
