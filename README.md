@@ -1,15 +1,12 @@
 <div align="center">
 
-# 👋 你好，我是钟林燊
-
+# 👋 你好，我是未央
 ### 电子信息工程 · 智能系统 · 人工智能 · 嵌入式开发
-
 <p>
   <a href="https://github.com/weiyangio">
     <img src="https://img.shields.io/badge/GitHub-weiyangio-181717?style=flat-square&logo=github" />
   </a>
 </p>
-
 </div>
 
 ---
